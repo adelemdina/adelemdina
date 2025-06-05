@@ -1,4 +1,4 @@
-## Full Stack Developer
+## Full Stack Developer💻🚀
 
 I'm a passionate developer focused on building web and mobile solutions. Experienced in using technologies like Node.js, React, JavaScript, MySQL, PHP, Ajax, and Tailwind, I specialize in developing efficient and scalable applications. I love working on projects ranging from management systems to interactive websites, always keeping a focus on best practices and code optimization.
 
